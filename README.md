@@ -27,7 +27,7 @@ The following technologies were used to develop the website:
 
 ## Installation
 To install the website, simply clone the repository:
-`git clone https://github.com/example-user/church-website.git`
+`git clone https://github.com/kwekuasiedu315/church-website.git`
 
 
 ## Usage
